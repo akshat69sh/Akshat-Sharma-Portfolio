@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme {
+  --font-playwrite: "Playwrite BE WAL Guides", cursive;
+  --font-jakarta: "Plus Jakarta Sans", sans-serif;
+  --font-space: "Space Mono", monospace;
+
+  --color-neon: #dbfe2c;
+  --color-brand-bg: #181715;
+  --color-brand-gray: #474642;
+  --color-brand-white: #f4f1ea;
+}
+
+body {
+  background-color: #181715; /* or #181715 from your theme */
+  color: white;
+}
